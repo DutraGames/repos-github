@@ -9,10 +9,12 @@
 - [x] Organizar pastas
 - [x] Criar componentes
 - [ ] Desenvolver os componentes
-- [x] Header
-- [ ] Footer
+-- [x] Header
+-- [x] Lista de Repositórios
+-- [ ] Footer
 - [ ] Estilizar componentes
-- [x] Header
-- [ ] Footer
+-- [x] Header
+-- [x] Lista de Repositórios
+-- [ ] Footer
 - [ ] Desenvolver hooks do React
 - [ ] Criar implementação

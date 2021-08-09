@@ -1,0 +1,25 @@
+.lista{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    list-style: none;
+}
+
+.listar{
+    box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.5);
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.listar a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #000;
+}
+
+.listar a:hover{
+    color: #00f;
+}
