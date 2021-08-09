@@ -1,5 +1,8 @@
-import React, {useEffect, useState} from 'react';
-import './App.css';
+import React, {useEffect, useState} from 'react'
+import './App.css'
+import Header from './components/Header'
+import Footer from './components/Footer'
+
 
 function App() {
 
@@ -8,8 +11,12 @@ function App() {
   
 
   return (
-    <div className="App">
-      <h1>Teste</h1>
+    <div>
+      <Header />
+
+      
+
+      <Footer/>
     </div>
   );
 }
