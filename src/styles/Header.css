@@ -1,0 +1,29 @@
+.header{
+    display: flex;
+    padding: 10px;
+    background-color: #111;
+    align-items: center;
+    justify-content: center;
+}
+
+.organization{
+    display: flex;
+    align-items: center;
+    color:#fff;
+}
+
+.organization img{
+    margin-right: 40px;
+    margin-left: 40px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.organization a{
+    transition: all 0.3s;
+}
+
+.organization a:hover{
+    opacity: 0.5;
+}
