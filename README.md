@@ -4,11 +4,11 @@
 
 ### **_Project still under development !!_**
 
-## Steps: 
+## Steps:
 
 - [x] Organizar pastas
 - [x] Criar componentes
-- [] Estilizar componentes
-- [] Desenvolver hooks do React
-- [] Criar implementação
-- [] Estilizar
+- [ ] Estilizar componentes
+- [ ] Desenvolver hooks do React
+- [ ] Criar implementação
+- [ ] Estilizar
