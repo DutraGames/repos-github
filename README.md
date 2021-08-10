@@ -1,20 +1,7 @@
 # Repository Github
 
-## ⚠️Attention: 
+![GitHub top language](https://img.shields.io/github/languages/top/dutragames/repos-github?style=plastic)
 
-### **_Project still under development !!_**
+## 📰Description:
 
-## Steps:
-
-- [x] Organizar pastas
-- [x] Criar componentes
-- [x] Desenvolver os componentes
-- [x] Header
-- [x] Lista de Repositórios
-- [x] Footer
-- [x] Estilizar componentes
-- [x] Header
-- [x] Lista de Repositórios
-- [x] Footer
-- [x] Desenvolver hooks do React
-- [x] Criar implementação
+In my spare time, I decided to abuse the GitHub API again. But this time, I used repositories and a list of them.

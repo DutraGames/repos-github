@@ -23,7 +23,7 @@ function List() {
       <div>
           <ul className="lista">
               {repos.map(repo =>(
-                  <li className="listar" key={repo.id}><GitHubIcon style={{margin:'5px'}} /> <a href={repo.html_url}>{repo.name}</a></li>
+                  <li className="listar" key={repo.id}><GitHubIcon style={{margin:'5px'}} /><a href={repo.html_url} target='_blank'>{repo.name}</a></li>
               ))}
           </ul>
       </div>
